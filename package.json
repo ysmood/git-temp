@@ -1,0 +1,24 @@
+{
+  "name": "git-temp",
+  "version": "0.0.1",
+  "description": "a tool for pushing your entire working directory to a temp branch automatically",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "no test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysmood/git-temp.git"
+  },
+  "keywords": [
+    "git",
+    "push",
+    "tool"
+  ],
+  "author": "http://ysmood.org",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ysmood/git-temp/issues"
+  },
+  "homepage": "https://github.com/ysmood/git-temp#readme"
+}
